@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="suites.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-10T03:03:02" hostname="Codemens-Mac-mini.local" time="1.175">
+<testsuite name="suites.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-10T03:05:13" hostname="Codemens-Mac-mini.local" time="1.161">
   <properties/>
-  <testcase name="loginTest" classname="suites.LoginTest" time="1.175"/>
+  <testcase name="loginTest" classname="suites.LoginTest" time="1.161"/>
   <system-out><![CDATA[Config loaded successfully.
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
