@@ -31,7 +31,7 @@ public class LoginTest {
         loginPage.enterUsername(username);
         loginPage.enterPassword(password);
         loginPage.clickLoginButton();
-    // Set implicit wait to 5 seconds
+
         driver.manage().timeouts().implicitlyWait(1000,TimeUnit.SECONDS);
     }
 
